@@ -1,0 +1,55 @@
+# Core LLM Framework
+langchain
+langchain-core
+langchain-google-genai
+langgraph
+
+# LCEL / Runnables Support
+langsmith
+
+# Search Tool
+tavily-python
+langchain-community
+
+# Web Scraping
+beautifulsoup4
+requests
+lxml
+
+# Environment Variables
+python-dotenv
+
+# Data Validation
+pydantic
+
+# Token Counting
+tiktoken
+
+# OpenAI
+openai
+
+# Async HTTP Requests
+httpx
+aiohttp
+
+# Utilities
+tenacity
+
+# Logging & Monitoring
+rich
+
+# Development
+ipykernel
+jupyter
+
+# Optional Output Parsing
+orjson
+
+# Type Hints
+typing-extensions
+
+## fast APi
+
+fastapi
+uvicorn[standard]
+slowapi
