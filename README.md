@@ -1,4 +1,4 @@
-﻿# 🧠 AI Research Agent — Multi-Agent Research System
+﻿#  AI Research Agent — Multi-Agent Research System
 
 A full-stack, multi-agent AI system that takes a research topic, **searches the web, reads the most relevant source, writes a structured report, and then critiques its own work** — all from one request.
 
@@ -173,7 +173,7 @@ Each step's output is printed to the terminal, and the agents run with `verbose=
 
 ---
 
-## 📡 API Reference
+##  API Reference
 
 ### `GET /api/health`
 
